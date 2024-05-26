@@ -1,5 +1,6 @@
 # Farmers-Daughter-Visual-Sample
 Repository to show the website made for Farmer's Daughter Coffee Company. Project ran from October 2023 to February 2024. 
+Inspiration for home page from Garden Eight design studio from utopiaagriculture.com
 
 ## Home Page ##
 ### Desktop ###
